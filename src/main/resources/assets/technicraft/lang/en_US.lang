@@ -1,0 +1,19 @@
+itemGroup.Technicraft=Technicraft
+
+item.UltraGem.name=Ultra Gem
+item.AmethystGem.name=Amethyst
+item.SapphireGem.name=Sapphire
+item.RubyGem.name=Ruby
+item.TopazGem.name=Topaz
+
+item.CopperIngot.name=Copper Ingot
+item.TinIngot.name=Tin Ingot
+item.LeadIngot.name=Lead Ingot
+item.AluminiumIngot.name=Aluminium Ingot
+
+item.CopperDust.name=Copper Dust
+item.TinDust.name=Tin Dust
+item.LeadDust.name=Lead Dust
+item.AluminiumDust.name=Aluminium Dust
+item.GoldDust.name=Gold Dust
+item.IronDust.name=Iron Dust
